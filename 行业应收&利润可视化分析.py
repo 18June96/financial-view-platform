@@ -1,5 +1,3 @@
-#streamlit run 03_谢卓君.py
-
 import pandas as pd
 import os
 import streamlit as st
